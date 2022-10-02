@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Ryumin',
+	name: 'Ryuminさん',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'おはよう,',
+	greetingAfternoon: 'やあ,',
+	greetingEvening: 'こんばんは,',
+	greetingNight: 'もう寝なさい,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
