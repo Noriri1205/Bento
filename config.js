@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'プレイリスト',
+					link: 'https://open.spotify.com/playlist/1PQTohExfyLTtwrnUvDvv8',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ゴシック',
+					link: 'https://open.spotify.com/playlist/04Jvb6c8eFGaRDGbCfarNW',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'プログラミング',
+					link: 'https://open.spotify.com/playlist/6Y8X3XqjrIVrUz7Eeg6caO',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '郷愁',
+					link: 'https://open.spotify.com/playlist/6M7M6LUYhdyxq066oi4kIo',
 				},
 			],
 		},
@@ -175,10 +175,6 @@ const CONFIG = {
 				{
 					name: 'Javascript',
 					link: 'https://github.com/airbnb/javascript',
-				},
-				{
-					name: 'Musescore',
-					link: 'https://musescore.com/'
 				}
 			],
 		},
