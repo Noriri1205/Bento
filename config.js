@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.com',
 		},
 		{
 			id: '4',
@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'layout-list',
 			link: 'https://reddit.com',
 		},
 		{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'file-code',
 			id: '2',
 			links: [
 				{
