@@ -21,7 +21,8 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #3a3a3a; /* Foreground color */
+  /* --fg: #3a3a3a; */ /* Foreground color */
+  --fg: #7f00ff;
   --sfg: #494949; /* Sceondary Foreground color */
 
   /* Light Colors  */
@@ -44,7 +45,8 @@
   --cards: #201e21; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
+  /* --fg: #d8dee9; */ /* Foreground color */
+  --fg: #7f00ff;
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
